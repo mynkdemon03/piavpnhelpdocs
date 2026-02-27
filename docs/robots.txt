@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://piavpnhelpdocs.readthedocs.io/en/latest/
