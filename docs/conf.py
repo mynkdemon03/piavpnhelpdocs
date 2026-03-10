@@ -28,4 +28,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://piavpnhelpdocs.readthedocs.io/en/latest/'
+html_baseurl = 'https://piavpnhelpdocss.readthedocs.io/en/latest/'
